@@ -1,0 +1,9 @@
+c:\users\gsimpson\documents\visual studio 2013\Projects\ObjectFilter\ObjectFilter.Tests\bin\Debug\ObjectFilter.Tests.dll
+c:\users\gsimpson\documents\visual studio 2013\Projects\ObjectFilter\ObjectFilter.Tests\bin\Debug\ObjectFilter.Tests.pdb
+c:\users\gsimpson\documents\visual studio 2013\Projects\ObjectFilter\ObjectFilter.Tests\bin\Debug\nunit.framework.dll
+c:\users\gsimpson\documents\visual studio 2013\Projects\ObjectFilter\ObjectFilter.Tests\bin\Debug\ObjectFilter.exe
+c:\users\gsimpson\documents\visual studio 2013\Projects\ObjectFilter\ObjectFilter.Tests\bin\Debug\ObjectFilter.pdb
+c:\users\gsimpson\documents\visual studio 2013\Projects\ObjectFilter\ObjectFilter.Tests\bin\Debug\nunit.framework.xml
+c:\users\gsimpson\documents\visual studio 2013\Projects\ObjectFilter\ObjectFilter.Tests\obj\Debug\ObjectFilter.Tests.csprojResolveAssemblyReference.cache
+c:\users\gsimpson\documents\visual studio 2013\Projects\ObjectFilter\ObjectFilter.Tests\obj\Debug\ObjectFilter.Tests.dll
+c:\users\gsimpson\documents\visual studio 2013\Projects\ObjectFilter\ObjectFilter.Tests\obj\Debug\ObjectFilter.Tests.pdb

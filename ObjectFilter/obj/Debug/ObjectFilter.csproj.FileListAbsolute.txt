@@ -1,0 +1,6 @@
+c:\users\gsimpson\documents\visual studio 2013\Projects\ObjectFilter\ObjectFilter\bin\Debug\ObjectFilter.exe.config
+c:\users\gsimpson\documents\visual studio 2013\Projects\ObjectFilter\ObjectFilter\bin\Debug\ObjectFilter.exe
+c:\users\gsimpson\documents\visual studio 2013\Projects\ObjectFilter\ObjectFilter\bin\Debug\ObjectFilter.pdb
+c:\users\gsimpson\documents\visual studio 2013\Projects\ObjectFilter\ObjectFilter\obj\Debug\ObjectFilter.exe
+c:\users\gsimpson\documents\visual studio 2013\Projects\ObjectFilter\ObjectFilter\obj\Debug\ObjectFilter.pdb
+c:\users\gsimpson\documents\visual studio 2013\Projects\ObjectFilter\ObjectFilter\obj\Debug\ObjectFilter.csprojResolveAssemblyReference.cache
